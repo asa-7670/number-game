@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Numbers Game</string>
+    <string name="str_tv_number">Veuillez saisir un nombre entre 1 et 100</string>
+    <string name="str_compare">Comparer</string>
+    <string name="str_congratulations">Félicitation, Vous avez trouvé le bon numéro après %d opération(s)</string>
+    <string name="str_greater">Veuillez saisir une valeur plus grande</string>
+    <string name="str_lower">Veuillez saisir une valeur plus petite</string>
+    <string name="str_btn_yes">Oui</string>
+    <string name="str_btn_no">Non</string>
+</resources>
